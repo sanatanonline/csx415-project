@@ -1,1 +1,1 @@
-Here you'll store your raw data files. If they are encoded in a supported file format, they'll automatically be loaded when you call `load.project()`.
+This directory contains the data used for training and testing of the edl3.0 prediction model.
