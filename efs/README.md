@@ -74,6 +74,7 @@ You have to use the following columns to create a test data frame.
                     12—Two-Year Transfer
 
 * Sch Type - The code identifying the ownership control of the institution:
+
                     1—Public
                     2—Private, Nonprofit
                     3—Proprietary
@@ -82,6 +83,7 @@ You have to use the following columns to create a test data frame.
                     7—Foreign For-Profit
 
 * PRate - Identifies what type of rate was calculated for the institution.
+
                     A—Actual
                     B—Average,
                     S—Substituted, or
