@@ -1,4 +1,13 @@
-Here you can store any documentation that you've written about your analysis.
-When pushing the project to GitHub you can use this directory as the root for a
-GitHub Pages website for the project. For more information see
-https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3
+This directory contains all the documents created for problem statement, data analysis, model creation and model performance analysis. The PDF version of the documents are knitted with care, so it is recommended to go through the PDF versions of the documents. Although all the formats have same contents.
+
+Recommended Reading (order)
+
+* formal problem statement
+
+* project performance
+
+* model-performance-linear
+
+* model performance mars
+
+* cross validation
