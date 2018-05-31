@@ -1,1 +1,1 @@
-Here you can store any output reports, such as HTML or LaTeX versions of tables, that you produce. Sweave or brew documents should also go in the `reports` directory.
+This directory contains the report of EFS application created using edl3.0 model. Its a 100% web application. Please go through the report for more details.
