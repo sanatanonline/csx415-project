@@ -1,1 +1,1 @@
-Here you can store any graphs that you produce.
+This directory contains the documents for EDA
